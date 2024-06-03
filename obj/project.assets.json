@@ -2106,8 +2106,8 @@
     },
     "DapperApp.Repository/1.0.0": {
       "type": "project",
-      "path": "../DapperApp.Repository/DapperApp.Repository.csproj",
-      "msbuildProject": "../DapperApp.Repository/DapperApp.Repository.csproj"
+      "path": "DapperApp.Repository/DapperApp.Repository.csproj",
+      "msbuildProject": "DapperApp.Repository/DapperApp.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2145,8 +2145,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\conor\\DapperApp.Repository\\DapperApp.Repository.csproj": {
-              "projectPath": "C:\\Users\\conor\\DapperApp.Repository\\DapperApp.Repository.csproj"
+            "C:\\Users\\conor\\DapperApp\\DapperApp.Repository\\DapperApp.Repository.csproj": {
+              "projectPath": "C:\\Users\\conor\\DapperApp\\DapperApp.Repository\\DapperApp.Repository.csproj"
             }
           }
         }

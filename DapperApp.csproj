@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DapperApp.Repository\DapperApp.Repository.csproj" />
+    <ProjectReference Include="DapperApp.Repository\DapperApp.Repository.csproj" />
   </ItemGroup>
 
 </Project>
